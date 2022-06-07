@@ -24,13 +24,21 @@ amplify the signal, to produce the necessary Alarm sound through a Speaker. I al
 Require component for this project:
 
 o	Arduino Microcontroller
+
 o	PIR Motion Sensor
+
 o	Buzzer
+
 o	9V Battery
+
 o	Battery cap
+
 o	Switch
+
 o	Connecting wires
+
 o	8050 transistor
+
 o	Light effect module
 
 Setting up environment:
