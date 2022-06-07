@@ -1,16 +1,20 @@
 # PIR-Security-Alarm
+
 Theory: 
+
 A passive infrared sensor detects body heat (infrared energy) by looking for changes in temperatures. This is the most-widely-used motion sensor in home security systems. When you
 arm your system, this activates the motion sensors to report possible threats.
 
 Generally, in security systems that are used in homes, shops, offices, etc., infrared or laser transmitters and receivers are used for accuracy and reliability. But these methods require a lot of
 monetary investment and infrastructure support.
+
 A simple cost effective solution for Security Systems is implemented in this project where I will
 explain about a PIR(passive infrared sensor) based Security Alarm System, in which a PIR
 sensor is used instead of transmitter or receiver. This saves power consumption as well as it is a
 low cost implementation. PIR sensor is the short form of Passive Infrared Sensor.
 
 How PIR motion sensor work?
+
 In this simple DIY Project, I will show you how to design and implement a PIR(passive infrared
 sensor) Sensor based Security Alarm System. I have designed this circuit using PIR motion
 sensor and arduino controller. Additionally, I have used D8050 transistor, which is a is
@@ -18,6 +22,7 @@ amplify the signal, to produce the necessary Alarm sound through a Speaker. I al
 
 
 Require component for this project:
+
 o	Arduino Microcontroller
 o	PIR Motion Sensor
 o	Buzzer
@@ -29,6 +34,7 @@ o	8050 transistor
 o	Light effect module
 
 Setting up environment:
+
 •	At first, I gather all the component for this project and draw a circuit diagram
 •	Then, I connect all the component to Arduino uno microcontroller following by the circuit diagram.
 •	Then, I write the code following by the function of my project on Arduino IDE.
