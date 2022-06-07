@@ -1,4 +1,4 @@
-# PIR-Security-Alarm
+# PIR Based Security Alarm
 
 Theory: 
 
