@@ -1,5 +1,4 @@
 # PIR-Security-Alarm
-PIR Based Security Alarm
 Theory: 
 A passive infrared sensor detects body heat (infrared energy) by looking for changes in temperatures. This is the most-widely-used motion sensor in home security systems. When you
 arm your system, this activates the motion sensors to report possible threats.
