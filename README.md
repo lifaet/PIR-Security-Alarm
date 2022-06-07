@@ -44,9 +44,13 @@ o	Light effect module
 Setting up environment:
 
 •	At first, I gather all the component for this project and draw a circuit diagram
+
 •	Then, I connect all the component to Arduino uno microcontroller following by the circuit diagram.
+
 •	Then, I write the code following by the function of my project on Arduino IDE.
+
 •	After that, I upload the code in Arduino uno controller. 
+
 •	Since, All the component are in place and code are running, now the system should work properly as expected.
 
 Processing:
