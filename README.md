@@ -43,6 +43,8 @@ Processing:
 5.	Arduino Microcontroller take that value and when the value is high it trigger the output alarm and read light by the instruction.
 6.	Thus sound produced can be heard from the speaker when human is detected.
 7.	This process are working based on program I put program into the microcontroller. 
+
+
 Result: 
 When the Motion sensor detect some motion or activities ,it will send a signal to the microcontroller  and the controller trigger alarm function and alarm will start.
 So, that was the over all functionality of this project. It will help to detect unusual activity on some restrict place, it can be used in homes, shops, offices and everywhere else where we need to monitor unusual activities. 
